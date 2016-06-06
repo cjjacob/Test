@@ -1,2 +1,2 @@
 # Test
-Git HATS Test editting
+Git HATS Test edits
